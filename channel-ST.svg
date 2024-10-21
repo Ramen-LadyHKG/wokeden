@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="channel-ST">
+   <path d="m0,0l1024,0l0,1024l-1024,0" fill="#2D2D2D" id="svg_1" xmlns="http://www.w3.org/2000/svg"/>
+   <path d="m0,0l1024,0l0,768l-1024,0" fill="#9B59D0" id="svg_2" xmlns="http://www.w3.org/2000/svg"/>
+   <path d="m0,0l1024,0l0,512l-1024,0" fill="#FFFFFF" id="svg_3" xmlns="http://www.w3.org/2000/svg"/>
+   <path d="m0,0l1024,0l0,256l-1024,0" fill="#FFF433" id="svg_4" xmlns="http://www.w3.org/2000/svg"/>
+  </g>
+ </g>
+</svg>

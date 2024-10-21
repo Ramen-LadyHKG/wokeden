@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="1026" height="1026" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+ <!-- Circle -->
+ <!-- Path with extended horizontal line -->
+ <g class="layer">
+  <title>Layer 1</title>
+ </g>
+ <g class="layer">
+  <title>Layer 2</title>
+  <circle cx="513.11" cy="513.11" fill="#ffffff" id="svg_1" r="512" stroke="#d40000" stroke-width="2.23"/>
+  <path d="m741.11,571.24l0,-119.25l-456,0l0,119.25l456,0z" fill="#b3b3b3" id="svg_2"/>
+ </g>
+</svg>
